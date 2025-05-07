@@ -93,16 +93,21 @@ This tool is intended for educational and authorized security testing only. Unau
 # Output
 
 **Port Scanner**
+
 ![Image](https://github.com/user-attachments/assets/88a674a4-bd9a-4b3f-8b00-ab99cb5fef18)
 
 **Port Scanning**
+
 ![Image](https://github.com/user-attachments/assets/5d4c98e9-9e55-41f0-b546-5442f963d33b)
 
 **SSH Brute Force**
+
 ![Image](https://github.com/user-attachments/assets/7b7538cd-52a2-4c90-88a7-950f60bc662f)
 
 **WHOIS Lookup**
+
 ![Image](https://github.com/user-attachments/assets/be457a28-bf30-4247-b4a4-272d35427565)
 
 **Directory Brute Force**
+
 ![Image](https://github.com/user-attachments/assets/b4367010-9f6d-4269-af07-51062a89c540)
