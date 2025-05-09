@@ -90,6 +90,10 @@ Cybersecurity training and practice
 
 This tool is intended for educational and authorized security testing only. Unauthorized use against systems without explicit permission is illegal and unethical.
 
+## 👨‍💻 Author
+
+Made with ❤️ by Sukhdeep Singh
+
 # Output
 
 **Port Scanner**
